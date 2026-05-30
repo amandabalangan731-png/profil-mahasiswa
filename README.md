@@ -68,7 +68,7 @@ button{
 
 <div class="header">
 
-<img src="foto.jpg" class="foto" alt="<img width="1024" height="1024" alt="alya" src="https://github.com/user-attachments/assets/bf2c2203-6edc-4eff-b4c9-2eb472d64942" />
+<img src= class="foto" alt="<img width="1024" height="1024" alt="alya" src="https://github.com/user-attachments/assets/bf2c2203-6edc-4eff-b4c9-2eb472d64942" />
 ">
 
 <h1>Alya Amanda Putri</h1>
